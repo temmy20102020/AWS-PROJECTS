@@ -10,6 +10,8 @@ Design a suitable network
 
 ## STEP 2
 Draw the topology to meet this requiremnet
+![image](https://github.com/user-attachments/assets/c5399f1a-ca79-41f5-beba-54ce460677fc)
+
 
 ## STEP 3
 Design a suitable network
