@@ -10,7 +10,8 @@ Design a suitable network
 
 ## STEP 2
 Draw the topology to meet this requiremnet
-![image](https://github.com/user-attachments/assets/c5399f1a-ca79-41f5-beba-54ce460677fc)
+![Topology in public subnet](https://github.com/user-attachments/assets/137a7af0-6ce5-4d93-8607-3b02eff5a56c)
+
 
 
 ## STEP 3
