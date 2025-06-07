@@ -10,7 +10,7 @@ Design a suitable network
 
 ## STEP 2
 Draw the topology to meet this requiremnet
-
+MANAGEMENT VPC IN PUBLIC SUBNET.png
 
 
 
