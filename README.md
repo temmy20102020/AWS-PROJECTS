@@ -15,7 +15,8 @@ The primary objective of this project is to design and implement a highly availa
 ## STEP 1 : Design a suitable network
 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2vw2twvnpwnhohaqwoc0.png)
+![image](https://github.com/user-attachments/assets/57d58ddd-ca57-40b1-aa7d-c8ac4f42da3e)
+
 
 
 
